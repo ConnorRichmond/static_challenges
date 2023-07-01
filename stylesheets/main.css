@@ -7,3 +7,32 @@ body {
   height: 70px;
   font-weight: bold;
 }
+
+h1 {
+  font-size: 30px;
+  padding: 20px;
+  color: white;
+}
+
+h2 {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#login {
+  position: absolute;
+  right: 0px;
+  padding: 30px;
+  color: white;
+}
+
+.link {
+  color: white;
+  padding: 10px
+}
+
+#subheader {
+  background-color: rgb(65, 65, 65);
+  text-align: right;
+  padding: 20px;
+}
