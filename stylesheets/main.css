@@ -50,7 +50,7 @@ h3 {
   padding-top: 30px;
   padding-left: 70px;
   padding-right: 800px;
-  padding-bottom: 40px;
+  padding-bottom: 60px;
   text-align: justify;
 }
 
@@ -74,5 +74,5 @@ footer {
   color: white;
   position: absolute;
   bottom: 0px;
-  padding: 30px;
+  padding: 20px;
 }
