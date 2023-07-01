@@ -58,3 +58,11 @@ h2 {
   width: 220px;
   height: 200px;
 }
+
+footer {
+  background-color: rgb(48, 47, 47);
+  color: white;
+  position: absolute;
+  bottom: 0px;
+  padding: 30px;
+}
